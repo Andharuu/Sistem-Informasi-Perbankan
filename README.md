@@ -1,4 +1,4 @@
-# 🏦 Sistem Informasi Perbankan (Web-Based)
+# 🏦 Sistem Informasi Perbankan
 
 ![PHP](https://img.shields.io/badge/PHP-Native-777BB4?style=flat&logo=php)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14.0+-4169E1?style=flat&logo=postgresql)
